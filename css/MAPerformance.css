@@ -13,12 +13,17 @@ h1{
 .info{
   font-family:"Courier New";
 }
-.transcription{
-  margin:2em;
-  font-family:"Courier New";
+
+.keywords{
+  margin-left:1em;
 }
 
-.translation{
+.Documentation{
   margin:2em;
-  font-family:"Courier New";
 }
+
+.transcription,.translation{
+  font-family:"Courier New";
+  margin-top: 0.5em;
+}
+
